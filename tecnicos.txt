@@ -1,0 +1,10 @@
+Iron,Man,Hardware Repair,Windows
+Bat,Man,Software Development,MacOS
+Spider,Man,Graphic Design,Linux Ubuntu
+Wonder,Woman,Printer Maintenance,Windows
+Captain,America,Programming,MacOS
+Thor,God,Software Testing,Linux Ubuntu
+Hulk,Increible,Data Management,Windows
+Black,Widow,Network Security,MacOS
+Super,Man,Cloud Services,Linux Ubuntu
+Aqua,Man,Database Administration,Windows

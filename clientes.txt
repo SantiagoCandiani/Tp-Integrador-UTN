@@ -1,0 +1,10 @@
+Juan,Perez,JP S.A.,30-12345678-9,jperez@mail.com
+Maria,Gonzalez,MG S.R.L.,33-23456789-0,mgonzalez@mail.com
+Carlos,Rodriguez,CR S.A.,27-34567890-1,crodriguez@mail.com
+Ana,Lopez,AL S.R.L.,23-45678901-2,alopez@mail.com
+Pedro,Gutierrez,PG S.A.,31-56789012-3,pgutierrez@mail.com
+Laura,Ramirez,LR S.R.L.,29-67890123-4,lramirez@mail.com
+Jose,Torres,JT S.A.,24-78901234-5,jtorres@mail.com
+Sofia,Fernandez,SF S.R.L.,26-89012345-6,sfernandez@mail.com
+Diego,Martinez,DM S.A.,28-90123456-7,dmartinez@mail.com
+Marta,Garcia,MG S.R.L.,32-01234567-8,mgarcia@mail.com
