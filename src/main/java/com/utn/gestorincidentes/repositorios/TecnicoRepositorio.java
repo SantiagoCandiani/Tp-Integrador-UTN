@@ -1,6 +1,5 @@
 package com.utn.gestorincidentes.repositorios;
 
-import com.utn.gestorincidentes.entidades.Cliente;
 import com.utn.gestorincidentes.entidades.Tecnico;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

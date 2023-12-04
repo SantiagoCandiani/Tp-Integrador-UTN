@@ -3,9 +3,7 @@ package com.utn.gestorincidentes.servicios;
 import com.utn.gestorincidentes.entidades.Cliente;
 import com.utn.gestorincidentes.repositorios.ClienteRepositorio;
 import jakarta.transaction.Transactional;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

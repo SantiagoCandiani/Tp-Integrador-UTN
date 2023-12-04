@@ -1,6 +1,5 @@
 package com.utn.gestorincidentes;
 
-import ch.qos.logback.core.encoder.JsonEscapeUtil;
 import com.utn.gestorincidentes.menus.MenuPrincipal;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -17,7 +16,6 @@ public class GestorIncidentesApplication {
 
         } catch (Exception e) {
             System.out.println(e.getMessage());
-            e.printStackTrace();
         }
     }
 }
